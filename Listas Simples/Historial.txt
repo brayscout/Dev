@@ -1,0 +1,21 @@
+INSERTAR
+ 1 ->  NULL 
+
+INSERTAR
+ 2 -> 1 ->  NULL 
+
+INSERTAR
+ 2 -> 2 -> 1 ->  NULL 
+
+INSERTAR
+ 2 -> 2 -> 2 -> 1 ->  NULL 
+
+ELIMINAR
+ 2 -> 2 -> 2 ->  NULL 
+
+MODIFICAR
+ 4 -> 4 -> 4 ->  NULL 
+
+INSERTAR
+ 5 -> 4 -> 4 -> 4 ->  NULL 
+
