@@ -43,3 +43,15 @@ INSERTAR
 MODIFICAR
  4 ->  NULL 
 
+INSERTAR
+ 1 ->  NULL 
+
+INSERTAR
+ 2 -> 1 ->  NULL 
+
+INSERTAR
+ 3 -> 2 -> 1 ->  NULL 
+
+MODIFICAR
+ 3 -> 2 -> 1 ->  NULL 
+
